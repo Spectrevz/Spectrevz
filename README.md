@@ -53,12 +53,13 @@
 </div>
 <div align="left">
   </a>
-  <a href="https://discord.gg/Du2CfZfb" target="_blank">
+  <a href="https://discord.gg/kU6XqZpn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
 </div>
 
 <div align="left">
   </a>
+  <a href="https://www.linkedin.com/in/rodrigo-dias-de-paula-193b6a311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
 </div>
 
