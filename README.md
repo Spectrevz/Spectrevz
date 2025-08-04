@@ -37,14 +37,14 @@
 
 ###
 
-<h2 align="left">Let's talk 💬!  Get in touch for projects, questions, or collaboration.</h2>
+<h2 align="left">Let's talk 💬!  Get in touch for projects, questions, or collaboration. </h2>
 
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/_mUKMulve5MAAAAd/anya-spy-x-family.gif"  />
 
 ###
-
+#### (Rodrigods.dev@gmail.com)
 <div align="left">
   <a href="mailto:rodrigods.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
